@@ -5,8 +5,8 @@
 
   **Your Modern, Lightning-Fast Attendance Management Solution**
 
-  [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/AtulSahu778/attendance-app-downloads/releases/latest)
-  [![Current Release](https://img.shields.io/github/v/release/AtulSahu778/attendance-app-downloads?style=for-the-badge&color=blue)](https://github.com/AtulSahu778/attendance-app-downloads/releases)
+  [![Download v1.0.0 APK](https://img.shields.io/badge/Download-v1.0.0%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/AtulSahu778/attendance-app-downloads/releases/download/v1.0.0/Attendeasev1.0.0.apk)
+  [![Current Release](https://img.shields.io/github/v/release/AtulSahu778/attendance-app-downloads?style=for-the-badge&color=0a0a0a&label=Release)](https://github.com/AtulSahu778/attendance-app-downloads/releases)
 
   *Note: This repository hosts the release builds (APK files) and documentation for AttendanceEase. No source code is included here.*
 </div>
@@ -27,7 +27,7 @@
 
 Follow these simple steps to install AttendanceEase on your Android device:
 
-1. **Download the APK:** Click the download button above or visit the [Releases page](https://github.com/AtulSahu778/attendance-app-downloads/releases/latest) to download the latest `.apk` file.
+1. **Download the APK:** Click the download button above or visit the [v1.0.0 Release](https://github.com/AtulSahu778/attendance-app-downloads/releases/tag/v1.0.0) to download the `.apk` file.
 2. **Enable Unknown Sources:** 
    - Since this app is downloaded outside the Google Play Store, your phone will ask for permission.
    - Go to your device **Settings** > **Security** (or **Privacy & Security**).
@@ -65,7 +65,7 @@ Stay up-to-date with the latest features and improvements. For detailed release 
 Encountered an issue or have a feature request? We'd love to hear from you!
 
 - **Report a Bug:** Please use the feedback system within the app.
-- **Contact Developer:** Reach out at [your-email@example.com](mailto:your-email@example.com) (Update with actual contact info)
+- **Contact Developer:** Reach out at [sahuatul2005@gmail.com](mailto:sahuatul2005@gmail.com)
 
 ---
 
