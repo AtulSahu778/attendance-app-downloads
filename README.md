@@ -1,74 +1,72 @@
 <div align="center">
   <img src="screenshots/logo.png" alt="AttendanceEase Logo" width="120" />
 
-  # AttendanceEase 
+  # AttendanceEase v2.0.0
 
-  **Your Modern, Lightning-Fast Attendance Management Solution**
+  **Modern Attendance Tracking for St. Xavier’s College, Ranchi**
 
-  [![Download v1.0.0 APK](https://img.shields.io/badge/Download-v1.0.0%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/AtulSahu778/attendance-app-downloads/releases/download/v1.0.0/Attendeasev1.0.0.apk)
-  [![Current Release](https://img.shields.io/github/v/release/AtulSahu778/attendance-app-downloads?style=for-the-badge&color=0a0a0a&label=Release)](https://github.com/AtulSahu778/attendance-app-downloads/releases)
+  [![Download v2.0.0 APK](https://img.shields.io/badge/Download-v2.0.0%20APK-0A84FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AtulSahu778/attendance-app-downloads/releases/tag/v2.0.0)
+  [![Latest Release](https://img.shields.io/github/v/release/AtulSahu778/attendance-app-downloads?style=for-the-badge&color=1C1C1E&label=Release)](https://github.com/AtulSahu778/attendance-app-downloads/releases)
 
-  *Note: This repository hosts the release builds (APK files) and documentation for AttendanceEase. No source code is included here.*
+  *This repository contains AttendanceEase release builds (APK files) and documentation. It does not include the application source code.*
 </div>
 
 ---
 
-## ✨ Features
+## Features
 
-- **Blazing Fast**: Engineered for speed and efficiency.
-- **Premium Interface**: Beautiful, responsive, and dark-mode ready design.
-- **Smart Analytics**: Deep dive into your attendance patterns with our interactive dashboards.
-- **Offline Support**: Access your cached data even when you're off the grid.
-- **Secure & Private**: Your data stays yours, safe and sound.
-
----
-
-## 🚀 Getting Started (Installation Guide)
-
-Follow these simple steps to install AttendanceEase on your Android device:
-
-1. **Download the APK:** Click the download button above or visit the [v1.0.0 Release](https://github.com/AtulSahu778/attendance-app-downloads/releases/tag/v1.0.0) to download the `.apk` file.
-2. **Enable Unknown Sources:** 
-   - Since this app is downloaded outside the Google Play Store, your phone will ask for permission.
-   - Go to your device **Settings** > **Security** (or **Privacy & Security**).
-   - Find the setting for **Install unknown apps** and enable it for your web browser or file manager (whichever you used to download the file).
-3. **Install:** Tap on the downloaded `.apk` file to begin the installation.
-4. **Launch:** Once installed, open the app and sign in!
-
-> **Note:**
-> Always download the APK directly from this official repository to ensure you are getting the safe and unmodified version of AttendanceEase.
+- **Quick Access:** Check your attendance without navigating the college portal.
+- **Attendance Analytics:** View overall, daily, and monthly attendance.
+- **Smart Attendance Planner:** Track attendance targets and identify subjects that need attention.
+- **Offline Caching:** Access previously loaded data when offline.
+- **Modern UI:** Clean, minimal interface with dark mode.
+- **Optimized Performance:** Designed for a smooth mobile experience.
 
 ---
 
-## 📸 Screenshots
+## Installation
 
-| App Screenshot 1 | App Screenshot 2 | App Screenshot 3 |
-| :---: | :---: | :---: |
-| <img src="screenshots/Shot.webp" width="250" alt="Screenshot 1"> | <img src="screenshots/Shot (1).webp" width="250" alt="Screenshot 2"> | <img src="screenshots/Shot (2).webp" width="250" alt="Screenshot 3"> |
+1. **Download:** Get `AttendEase.apk` from the [v2.0.0 Release](https://github.com/AtulSahu778/attendance-app-downloads/releases/tag/v2.0.0).
+2. **Allow Installation:** If prompted, enable **Install unknown apps** for your browser or file manager in Android Settings.
+3. **Install:** Open the downloaded APK and tap **Install**.
+4. **Launch:** Open AttendanceEase and sign in.
 
-| App Screenshot 4 | App Screenshot 5 |
-| :---: | :---: |
-| <img src="screenshots/Shot (3).webp" width="250" alt="Screenshot 4"> | <img src="screenshots/Shot (4).webp" width="250" alt="Screenshot 5"> |
-
----
-
-## 📦 Version Info & Changelog
-
-Stay up-to-date with the latest features and improvements. For detailed release notes, please check our [CHANGELOG.md](CHANGELOG.md) or the [Releases page](https://github.com/AtulSahu778/attendance-app-downloads/releases).
-
-**Current Version:** v1.0.0
+> **Security:** Download the APK only from this repository's official release page.
 
 ---
 
-## 🤝 Support & Contact
+## Screenshots
 
-Encountered an issue or have a feature request? We'd love to hear from you!
+| Attendance Overview | Attendance Analytics | Attendance Planner |
+|:---:|:---:|:---:|
+| <img src="screenshots/Shot.webp" width="220" alt="Attendance overview"> | <img src="screenshots/Shot (1).webp" width="220" alt="Attendance analytics"> | <img src="screenshots/Shot (2).webp" width="220" alt="Attendance planner"> |
 
-- **Report a Bug:** Please use the feedback system within the app.
-- **Contact Developer:** Reach out at [sahuatul2005@gmail.com](mailto:sahuatul2005@gmail.com)
+| Additional View 1 | Additional View 2 |
+|:---:|:---:|
+| <img src="screenshots/Shot (3).webp" width="220" alt="Additional app screen"> | <img src="screenshots/Shot (4).webp" width="220" alt="Additional app screen"> |
+
+---
+
+## Release Information
+
+- **Version:** 2.0.0
+- **Platform:** Android
+- **Format:** APK
+- **Institution:** St. Xavier’s College, Ranchi
+
+See the [Releases page](https://github.com/AtulSahu778/attendance-app-downloads/releases) for available versions and release notes.
+
+---
+
+## Support
+
+- **Report an issue:** Use the feedback system within the app.
+- **Contact:** [sahuatul2005@gmail.com](mailto:sahuatul2005@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Atul Sahu</sub>
+  <sub>Built by Atul Sahu</sub>
+  <br />
+  <sub>AttendanceEase is an independent project and is not officially affiliated with or endorsed by St. Xavier’s College, Ranchi.</sub>
 </div>
